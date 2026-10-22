@@ -1489,7 +1489,7 @@ CODIGO DE VESTIMENTA
 .vestimenta-item p{
 
 
-    color:var(--gris);
+    color:var(--texto);
 
     line-height:1.8;
      font-size:20px;
@@ -1775,24 +1775,30 @@ color:var(--vino);
 
 .regalos-card p{
 
-     max-width:550px;
+   max-width:550px;
 
     margin:auto;
 
+
     padding:20px 30px;
+
 
     line-height:1.9;
 
+
     color:var(--texto);
 
-    font-size:20px;
+
+    font-size: 20px;
+
 
     
 
+
     backdrop-filter:blur(8px);
 
-    border-radius:25px;
 
+    border-radius:25px;
 }
 
 
@@ -2131,18 +2137,26 @@ CIERRE FINAL
 
 .cierre-card p{
 
-    max-width:550px;
+   
+  
+max-width:550px;
 
-    margin:30px auto;
+    margin:auto;
+
 
     padding:20px 30px;
 
-    font-size:18px;
 
-    line-height:2;
+    line-height:1.9;
+
 
     color:var(--texto);
-  
+
+
+    font-size: 20px;
+
+
+    
 
 
     backdrop-filter:blur(8px);
