@@ -82,7 +82,7 @@ body {
 
     overflow:hidden;
 
-    background-image:url("hero2.png");
+    background-image:url("hero.png");
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
@@ -250,8 +250,8 @@ body {
 
     background:
         linear-gradient(
-            rgba(248,244,236,.20),
-            rgba(248,244,236,.20)
+            rgba(248,244,236,.30),
+            rgba(248,244,236,.30)
         ),
         url("back.jpg");
 
@@ -716,8 +716,8 @@ LUGARES
    
     background:
         linear-gradient(
-            rgba(248,244,236,.20),
-            rgba(248,244,236,.20)
+            rgba(248,244,236,.30),
+            rgba(248,244,236,.30)
         ),
         url("back.jpg");
         
@@ -984,8 +984,8 @@ PADRES Y PADRINOS
     
     background:
         linear-gradient(
-            rgba(248,244,236,.20),
-            rgba(248,244,236,.20)
+            rgba(248,244,236,.30),
+            rgba(248,244,236,.30)
         ),
         url("back.jpg");
          background-size:cover;
@@ -1252,8 +1252,8 @@ CODIGO DE VESTIMENTA
 
     background:
         linear-gradient(
-            rgba(248,244,236,.20),
-            rgba(248,244,236,.20)
+            rgba(248,244,236,.30),
+            rgba(248,244,236,.30)
         ),
         url("back.jpg");
 
@@ -1689,8 +1689,8 @@ MESA DE REGALOS
   
     background:
         linear-gradient(
-            rgba(248,244,236,.20),
-            rgba(248,244,236,.20)
+            rgba(248,244,236,.30),
+            rgba(248,244,236,.30)
         ),
         url("back.jpg");
         background-size:cover;
@@ -1887,8 +1887,8 @@ CONFIRMACION
 
     background:
         linear-gradient(
-            rgba(248,244,236,.20),
-            rgba(248,244,236,.20)
+            rgba(248,244,236,.30),
+            rgba(248,244,236,.30)
         ),
         url("back.jpg");
 
@@ -2012,8 +2012,8 @@ CIERRE FINAL
 
     background:
         linear-gradient(
-            rgba(248,244,236,.20),
-            rgba(248,244,236,.20)
+            rgba(248,244,236,.30),
+            rgba(248,244,236,.30)
         ),
         url("back.jpg");
 
