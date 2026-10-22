@@ -1842,12 +1842,14 @@ color:var(--vino);
 
 .regalos-card p{
 
-    font-size:15px;
+    font: size 20px;
 
 }
 
 
 }
+
+
 
 /*======================================================
 CONFIRMACION
